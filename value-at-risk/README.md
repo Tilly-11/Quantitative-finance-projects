@@ -23,3 +23,6 @@ The implementation is built using production-grade, modular Python functions:
 - `pandas`
 - `numpy`
 - `matplotlib`
+
+## Visual Output Analysis
+![Portfolio Risk Distribution](./portfolio_var_distribution.png)
