@@ -20,3 +20,6 @@ Open the notebook in Google Colab or run your local Python script to execute the
 1. Define your custom asset list (tickers).
 2. Set your backtesting date range.
 3. Inputs your total available investment budget.
+
+## Visual Output Analysis
+![Portfolio Optimization Distribution](./optimized_portfolio_weights.png)
