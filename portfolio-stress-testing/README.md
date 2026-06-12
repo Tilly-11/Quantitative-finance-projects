@@ -16,3 +16,6 @@ This module features a functional risk-modeling framework designed to stress-tes
 - `fetch_stress_data()`: Connects to market indices over a 17-year timeline to map historical stress registries.
 - `run_scenario_analysis()`: Houses the logic for temporal historical extraction and hypothetical sector shocks.
 - `plot_stress_results()`: Renders and crops localized bar charts displaying capital losses.
+
+## Visual Output Analysis
+![Portfolio Stress Test Results](./portfolio_stress_test.png)
